@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Owner%20avatargoit-react-hw-05-movies/static/css/main.7acaea2f.css",
+    "main.js": "/Owner%20avatargoit-react-hw-05-movies/static/js/main.a57d45e5.js",
+    "index.html": "/Owner%20avatargoit-react-hw-05-movies/index.html",
+    "main.7acaea2f.css.map": "/Owner%20avatargoit-react-hw-05-movies/static/css/main.7acaea2f.css.map",
+    "main.a57d45e5.js.map": "/Owner%20avatargoit-react-hw-05-movies/static/js/main.a57d45e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.a57d45e5.js"
+  ]
+}
